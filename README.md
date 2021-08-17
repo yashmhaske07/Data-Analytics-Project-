@@ -1,3 +1,3 @@
-# Data-Analytics-Project-
+# Melbourne Datathon-
 
-Here is a list of projects that I have done throughout my degree and the one's I'm still working on. 
+Here is the project that I did for the Melbourne Datathon 
